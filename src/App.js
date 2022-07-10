@@ -9,7 +9,7 @@ import SendMessage from "./pages/sendMessagePage";
 import HistoryPage from "./pages/historyPage";
 import axios from "axios";
 
-axios.defaults.baseURL="https://sms-backends.herokuapp.com/"
+axios.defaults.baseURL="https://sms-backend-kissan.herokuapp.com/"
 
 function App() {
   return (
